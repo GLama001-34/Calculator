@@ -27,7 +27,7 @@ td:hover {
 #resultArea {
     height: 30vh; 
     background-color: #3f3f3f;
-    font-size: 10em;
+    font-size: 7em;
     color: #e2e2e2;
     display: flex;
     justify-content: flex-end;
